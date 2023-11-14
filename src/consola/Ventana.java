@@ -73,7 +73,7 @@ public class Ventana extends JFrame{
 								archivoClientes, archivoReservas, archivoConductores);
 		
 		//Parte Interfaz Grafica
-		Ventana ventana = new Ventana(600, 1000);
+		Ventana ventana = new Ventana(600, 1100);
 		ventana.setVisible(true);
 		
 		

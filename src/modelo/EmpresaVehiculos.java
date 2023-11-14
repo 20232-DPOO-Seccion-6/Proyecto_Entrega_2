@@ -1030,7 +1030,6 @@ public class EmpresaVehiculos {
 	}
 	
 	
-	
 	public boolean validarHorasDevuelta(Sede sede, String horas, LocalDate fechaFin) {
 		DayOfWeek diaDeLaSemana = fechaFin.getDayOfWeek();
         String nombreDelDia = diaDeLaSemana.getDisplayName(TextStyle.FULL, Locale.getDefault());

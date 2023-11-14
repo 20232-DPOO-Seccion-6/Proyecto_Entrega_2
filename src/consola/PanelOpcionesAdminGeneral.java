@@ -44,6 +44,8 @@ public class PanelOpcionesAdminGeneral extends JPanel {
 		JPanel archivoLog = new ArchivoLog(empresa);
 		JPanel registrarCategoria = new RegistrarCategoria(empresa);
 		JPanel generarTraslado = new GenerarTraslado(empresa);
+		JPanel ocupacionSede = new OcupacionSede(empresa);
+		
 		
         opcionesAdminGeneralPaneles.addTab("Crear/Borrar Carro", registrarEliminarVehiculo);
         opcionesAdminGeneralPaneles.addTab("Crear/Borrar Sede", registrarEliminarSede);
@@ -52,6 +54,8 @@ public class PanelOpcionesAdminGeneral extends JPanel {
         opcionesAdminGeneralPaneles.addTab("Archivo .log de un carro", archivoLog);
         opcionesAdminGeneralPaneles.addTab("Crear categoria", registrarCategoria);
         opcionesAdminGeneralPaneles.addTab("Generar Traslado", generarTraslado);
+        opcionesAdminGeneralPaneles.addTab("Ocupacion Sede", ocupacionSede);
+        
         
         add(opcionesAdminGeneralPaneles, BorderLayout.CENTER);
 		
