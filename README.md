@@ -5,7 +5,7 @@ El programa inicia en la ventana LoginScreen que es la ventana de inicio de sesi
 
 Usuarios que se pueden usar para el desarrollo del programa:
 
-Admin. Sede: msrondon password: 5678
+Admin. Sede: msrondon password: 5678\\
 
 Cliente: dlesmes 1234
 
