@@ -1,0 +1,7 @@
+Sergio Molina;1223334444;3204558445;02/11/2001;colombiano;15;Colombia;02/11/2030;18964512;02/10/2025;200;Visa;smolina;4789;correo@gmail;bloqueada
+David Lesmes;1001168408;3204558446;02/11/2001;colombiano;16;Colombia;02/11/2001;7418529;01/04/2025;200;Visa;dlesmes;1234;lmanrique@gmail;bloqueada
+Daniel Martinez;1111000022;3204005006;01/01/1995;Colombiano;0;Colombia;01/01/1995;7845621;02/05/2025;123;Visa;dfmartinez;1365;carrental@gmail.com;libre
+Santiago Villamil;1701456245;3204005006;01/01/1995;Colombiano;0;Colombia;01/01/1995;7845621;02/05/2025;123;Visa;savillamil;1245;carrental@gmail.com;libre
+Felipe Calderon;1457896312;3204005006;01/01/1995;Colombiano;0;Colombia;01/01/1995;7845621;02/05/2025;123;Visa;fecalderon;4568;carrental@gmail.com;libre
+Manuela Navarrete;1001520639;3204558789;05/05/2001;Colombiana;785456;Colombia;05/05/2001;7845621;09/04/2025;226;Visa;mnavarrete;1598;m.navarrete@gmail.com;libre
+Federico Montero;2121212121;3204005006;01/01/1995;Colombiano;0;Colombia;01/01/1995;7845621;02/05/2025;123;Visa;femontero;6214;carrental@gmail.com;libre
